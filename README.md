@@ -6,15 +6,18 @@ Next, we introduce how to run our model for provided example data or your own da
 
 # Environment
 
-Python 3.5,
-TensorFlow 1.4.1,
-Numpy 1.15.0,
+Python 3.5
+
+TensorFlow 1.4.1
+
+Numpy 1.15.0
 
 # Usage
 As an illustration, we provide the data and running command for Gowalla and Brightkite.
 
 # Input data
 userlocation.csv：includes user ID, POI ID, latitude, longitude, checkin time.
+
 locations.csv: includes POI ID, latitude, longitude, city ID
 
 # Contact
@@ -22,4 +25,5 @@ Liwei Huang, dr_huanglw@163.com
 
 # Citation
 If you use DGRec or Douban datasets in your research, please cite our paper:
+
 An Attention-based Spatiotemporal LSTM Network for Next POI Recommendation
