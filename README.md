@@ -24,6 +24,6 @@ locations.csv: includes POI ID, latitude, longitude, city ID
 Liwei Huang, dr_huanglw@163.com
 
 # Citation
-If you use DGRec or Douban datasets in your research, please cite our paper:
+If you use AT-LSTM in your research, please cite our paper:
 
 An Attention-based Spatiotemporal LSTM Network for Next POI Recommendation
