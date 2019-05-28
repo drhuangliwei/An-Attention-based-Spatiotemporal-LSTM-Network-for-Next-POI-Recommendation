@@ -26,4 +26,4 @@ Liwei Huang, dr_huanglw@163.com
 # Citation
 If you use AT-LSTM in your research, please cite our paper:
 
-An Attention-based Spatiotemporal LSTM Network for Next POI Recommendation
+Liwei Huang, Yutao Ma, Shibo Wang,Yanbo Liu. An Attention-based Spatiotemporal LSTM Network for Next POI Recommendation. IEEE Transactions on Services Computing. Accepted
