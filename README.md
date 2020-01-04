@@ -20,6 +20,8 @@ userlocation.csv：includes user ID, POI ID, latitude, longitude, checkin time.
 
 locations.csv: includes POI ID, latitude, longitude, city ID
 
+The dataset can be downloaded from http://snap.stanford.edu/data/
+
 # Contact
 Liwei Huang, dr_huanglw@163.com
 
