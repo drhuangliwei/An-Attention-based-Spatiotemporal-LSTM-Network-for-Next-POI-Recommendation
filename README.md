@@ -19,8 +19,8 @@ As an illustration, we provide the data and running command for Gowalla and Brig
 userlocation.csv：includes user ID, POI ID, latitude, longitude, checkin time.
 
 locations.csv: includes POI ID, latitude, longitude, city ID
-
-The dataset can be downloaded from http://snap.stanford.edu/data/
+m,m
+The original dataset can be downloaded from http://snap.stanford.edu/data/, but we need to preprocess the dataset according to 5.2 in our paper    
 
 # Contact
 Liwei Huang, dr_huanglw@163.com
